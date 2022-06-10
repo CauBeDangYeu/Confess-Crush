@@ -12,4 +12,3 @@ const CONFIG = {
     mess: 'Cảm ơn Châu đã tham gia khảo sát ý kiến hehehe 😘😘',
     messDesc: 'Chúc Châu ngủ ngon.',
     btnAccept: 'okiii Cảm ơn <3',
-    messLink: '//https://www.messenger.com/t/100073446341689'
